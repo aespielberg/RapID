@@ -1,0 +1,5 @@
+﻿Opening repositories:
+C:\Users\Kelly Liu\Roboptimization
+Failed to read index: 'C:/Users/Kelly Liu/Roboptimization/.git/index' no longer exists
+Failed to read index: 'C:/Users/Kelly Liu/Roboptimization/.git/index' no longer exists
+Failed to read index: 'C:/Users/Kelly Liu/Roboptimization/.git/index' no longer exists
